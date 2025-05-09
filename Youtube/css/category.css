@@ -1,0 +1,19 @@
+.categories{
+    position: fixed;
+    top: 55;
+    left: 100;
+    right: 0;
+    overflow-x: hidden;
+   white-space: nowrap;
+   background-color: white;
+    padding-bottom: 10px;
+}
+.categories button{
+    font-size: 13px;
+    font-weight: 600;
+    background-color: rgb(242, 240, 240);
+    border: none;
+    padding:8px 10px;
+    border-radius: 8px;
+    margin-right: 8px;
+}
